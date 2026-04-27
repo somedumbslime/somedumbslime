@@ -22,4 +22,4 @@ ML / Computer Vision Engineer focused on practical vision systems, tracking, and
 ## Contact
 
 - GitHub: [@somedumbslime](https://github.com/somedumbslime)
-- LinkedIn: www.linkedin.com/in/oleksandr-onufriichuk-0a99b627b
+- LinkedIn: [Oleksandr Onufriichuk](www.linkedin.com/in/oleksandr-onufriichuk-0a99b627b)
