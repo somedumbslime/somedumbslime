@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sanek 👋
 
-<!--
-**somedumbslime/somedumbslime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML / Computer Vision Engineer focused on practical vision systems, tracking, and edge inference.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building computer vision systems for real-world scenarios
+- Interested in UAV vision, target tracking, and embedded CV
+- Prefer utility-first solutions: clear logic, solid metrics, efficient deployment
+
+## Current focus
+
+- Primary Target Selection for multi-object tracking
+- FPV drone video analysis pipelines
+- YOLO-based detection and tracking
+- ONNX Runtime for edge deployment
+
+## Tech stack
+
+**Python · PyTorch · OpenCV · Ultralytics-YOLO · ONNX-Runtime · NumPy · Pandas · Some-Other-Stuff**
+
+## Contact
+
+- GitHub: [@somedumbslime](https://github.com/somedumbslime)
+- LinkedIn: www.linkedin.com/in/oleksandr-onufriichuk-0a99b627b
